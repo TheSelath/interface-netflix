@@ -68,6 +68,10 @@ header nav a:hover{
 
 }
 
+.botoes{
+    margin-left: 20px;
+}
+
 .botao{
     background-color: rgba(0, 0, 0, .50);
     border: none;
@@ -94,4 +98,10 @@ header nav a:hover{
 
 .filme-principal .container{
     width: 60%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
 }
